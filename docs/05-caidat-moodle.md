@@ -1031,6 +1031,8 @@ Server: Apache/2.4.6 (CentOS) PHP/7.2.22
 
 - Nếu kết quả trả về khi CURL đều bằng 303 (`HTTP/1.1 303 See Other`), Moodle trên từng node đã hoạt động.
 
+Tới đây, phần triển khai dịch vụ Moodle đã thành công, mời bạn chuyển sang bài tiếp theo: [Ứng dụng Nginx làm Reverse Proxy cho Moodle Cluster](/docs/06-nginx-moodle.md)
+
 ## Nguồn
 
 https://blog.cloud365.vn/search/?q=High+Availability

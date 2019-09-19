@@ -625,6 +625,8 @@ MariaDB [(none)]> SHOW BINARY LOGS;
 Giải pháp khác:
 - Có thể đặt crontab tự động khởi động lại MariaDB theo chu kỳ
 
+Tới đây, phần triển khai dịch vụ Database đã thành công, mời bạn chuyển sang bài tiếp theo: [Triển khai Moodle](/docs/05-caidat-moodle.md)
+
 ## Nguồn
 
 https://thesubtlepath.com/blog/mysql/binary-log-growth-handling-in-mysql/

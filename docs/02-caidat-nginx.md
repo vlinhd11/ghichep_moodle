@@ -463,5 +463,8 @@ Khởi chạy dịch vụ Nginx
 systemctl restart nginx
 systemctl enable nginx
 ```
+
+Tới đây, phần thiết lập Nginx đã thành công, mời bạn chuyển sang bài tiếp theo: [Triển khai Storage](/docs/03-caidat-storage.md)
+
 ## Nguồn
 https://blog.cloud365.vn/linux/fail2ban-cai-dat-cau-hinh/

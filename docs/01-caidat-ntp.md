@@ -93,6 +93,9 @@ systemctl restart chronyd.service
 chronyc sources
 ```
 
+Tới đây, phần thiết lập NTP Server đã thành công, mời bạn chuyển sang bài tiếp theo: [Triển khai Nginx](/docs/02-caidat-nginx.md)
+
+
 ## Nguồn
 
 https://news.cloud365.vn/chronyd-dich-vu-thay-the-ntpd-tren-unix/

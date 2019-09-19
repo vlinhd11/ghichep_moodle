@@ -480,6 +480,8 @@ drwxrwsrwx   6 root   48    4096 13:58 17 Th09 temp
 drwxrwsrwx   2   48   48    4096 00:55 18 Th09 trashdir
 ```
 
+Tới đây, phần triển khai dịch vụ Storage và Backup đã thành công, mời bạn chuyển sang bài tiếp theo: [Triển khai Database](/docs/04-caidat-database.md)
+
 ## Nguồn
 
 https://news.cloud365.vn/nfs-network-file-system/
