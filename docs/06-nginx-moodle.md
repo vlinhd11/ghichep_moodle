@@ -249,7 +249,7 @@ Truy cập đường dẫn `http://moodle.devopsviet.com/`, kết quả
 ### Thực hiện trên Nginx
 > Hostname `tlunginx01`
 
-Như giải thích phía trên, Nginx sẽ là node điều phối Request cho cụm, vì vậy để cấu hình HTTPS cho Moodle, mình sẽ cấu hình chỉ cấu hình Cert trên Nginx.
+Như giải thích phía trên, Nginx sẽ là node điều phối Request cho cụm, vì vậy để cấu hình HTTPS cho Moodle, mình sẽ chỉ cấu hình Cert SSL trên Nginx.
 
 https_reverse_proxy.png
 
