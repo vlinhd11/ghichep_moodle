@@ -251,7 +251,7 @@ Truy cập đường dẫn `http://moodle.devopsviet.com/`, kết quả
 
 Như giải thích phía trên, Nginx sẽ là node điều phối Request cho cụm, vì vậy để cấu hình HTTPS cho Moodle, mình sẽ chỉ cấu hình Cert SSL trên Nginx.
 
-https_reverse_proxy.png
+![](/images/06-nginx-moodle/https_reverse_proxy.png)
 
 Cài đặt certbot
 ```
