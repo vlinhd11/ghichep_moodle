@@ -19,3 +19,6 @@
 ### [Bước 5. Triển khai Moodle](/docs/05-caidat-moodle.md)
 ### [Bước 6. Ứng dụng Nginx làm Reverse Proxy cho Moodle Cluster](/docs/06-nginx-moodle.md)
 
+## Tài liệu vận hành
+
+### [1. Kiểm tra dịch vụ Moodle HA](/docs/van-hanh/01-kiem-tra-dich-vu-moodle-ha.md)
